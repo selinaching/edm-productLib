@@ -1,0 +1,360 @@
+{
+  "app": "EDM产品助手",
+  "schema": 3,
+  "exportDate": "2026-09-20T12:51:26.554Z",
+  "fields": [
+    {
+      "id": "f_features",
+      "name": "参数/功能"
+    },
+    {
+      "id": "f_sp",
+      "name": "卖点"
+    },
+    {
+      "id": "f_desc",
+      "name": "描述"
+    },
+    {
+      "id": "f_cta",
+      "name": "引导购物语"
+    }
+  ],
+  "brands": [
+    {
+      "id": "mu9qt8ul0z7fk1",
+      "name": "TechPro",
+      "note": "电子产品品牌"
+    },
+    {
+      "id": "mu9qt8ulc6nhyn",
+      "name": "HomeStyle",
+      "note": "家居生活品牌"
+    },
+    {
+      "id": "mu9qt8ulrzf60u",
+      "name": "FitGear",
+      "note": "运动健身品牌"
+    }
+  ],
+  "products": [
+    {
+      "id": "mu9qt8ula16zai",
+      "brandId": "mu9qt8ul0z7fk1",
+      "name": "无线蓝牙耳机 Pro Max",
+      "createdAt": "2026-09-20T11:38:30.285Z",
+      "values": {
+        "f_features": [
+          {
+            "label": "",
+            "content": "蓝牙 5.3 连接"
+          },
+          {
+            "label": "",
+            "content": "主动降噪 ANC"
+          },
+          {
+            "label": "",
+            "content": "续航 36 小时"
+          },
+          {
+            "label": "",
+            "content": "IPX5 防水"
+          },
+          {
+            "label": "",
+            "content": "低延迟游戏模式"
+          },
+          {
+            "label": "",
+            "content": "双设备连接"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "",
+            "content": "沉浸式降噪体验"
+          },
+          {
+            "label": "",
+            "content": "超长续航，告别电量焦虑"
+          },
+          {
+            "label": "",
+            "content": "轻至 4.2g，无感佩戴"
+          }
+        ],
+        "f_desc": [
+          {
+            "label": "短描述",
+            "content": "采用新一代 13mm 动圈单元，音质细节丰富，低频强劲有力，高频清亮通透"
+          },
+          {
+            "label": "长描述",
+            "content": "搭载最新蓝牙 5.3 芯片，连接更稳定、延迟更低。主动降噪技术有效过滤环境噪音，让你沉浸在纯净的音乐世界中。36 小时超长续航配合快充技术，10 分钟充电即可使用 3 小时。"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "限时 8 折，立即抢购"
+          },
+          {
+            "label": "",
+            "content": "加入购物车，享额外 9 折"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mu9qt8un7f0aqt",
+      "brandId": "mu9qt8ul0z7fk1",
+      "name": "智能手表 Series 5",
+      "createdAt": "2026-09-20T11:38:30.287Z",
+      "values": {
+        "f_features": [
+          {
+            "label": "",
+            "content": "AMOLED 触摸屏"
+          },
+          {
+            "label": "",
+            "content": "心率血氧监测"
+          },
+          {
+            "label": "",
+            "content": "100+ 运动模式"
+          },
+          {
+            "label": "",
+            "content": "5ATM 防水"
+          },
+          {
+            "label": "",
+            "content": "NFC 支付"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "",
+            "content": "你的私人健康管家"
+          },
+          {
+            "label": "",
+            "content": "百种运动模式全覆盖"
+          },
+          {
+            "label": "",
+            "content": "一周一充，告别续航焦虑"
+          }
+        ],
+        "f_desc": [
+          {
+            "label": "短描述",
+            "content": "航空级铝合金表身，1.43 英寸高清大屏，支持全天候健康监测"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "首发优惠立减 200"
+          },
+          {
+            "label": "",
+            "content": "前 100 名赠额外表带"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mu9qt8unaoej36",
+      "brandId": "mu9qt8ulc6nhyn",
+      "name": "北欧风落地灯",
+      "createdAt": "2026-09-20T11:38:30.287Z",
+      "values": {
+        "f_features": [
+          {
+            "label": "",
+            "content": "三档调光"
+          },
+          {
+            "label": "",
+            "content": "LED 节能灯珠"
+          },
+          {
+            "label": "",
+            "content": "金属哑光灯杆"
+          },
+          {
+            "label": "",
+            "content": "稳定底盘设计"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "",
+            "content": "点亮你的居家美学"
+          },
+          {
+            "label": "",
+            "content": "护眼无频闪，长时间阅读不疲劳"
+          }
+        ],
+        "f_desc": [
+          {
+            "label": "短描述",
+            "content": "极简北欧设计，哑光金属质感，适配多种家居风格"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "满 299 减 50"
+          },
+          {
+            "label": "",
+            "content": "限时包邮"
+          }
+        ]
+      }
+    },
+    {
+      "id": "mu9qt8unaqqh3w",
+      "brandId": "mu9qt8ulrzf60u",
+      "name": "专业瑜伽垫 6mm",
+      "createdAt": "2026-09-20T11:38:30.287Z",
+      "values": {
+        "f_features": [
+          {
+            "label": "",
+            "content": "6mm 加厚"
+          },
+          {
+            "label": "",
+            "content": "TPE 环保材质"
+          },
+          {
+            "label": "",
+            "content": "双面防滑"
+          },
+          {
+            "label": "",
+            "content": "体位引导线"
+          },
+          {
+            "label": "",
+            "content": "可水洗"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "",
+            "content": "加厚缓冲，保护关节"
+          },
+          {
+            "label": "",
+            "content": "双面防滑，出汗不滑"
+          },
+          {
+            "label": "",
+            "content": "环保无味，开箱即用"
+          }
+        ],
+        "f_desc": [
+          {
+            "label": "短描述",
+            "content": "采用高密度 TPE 材质，回弹性好，防滑性能优异，适合瑜伽、普拉提等多种运动"
+          },
+          {
+            "label": "长描述",
+            "content": "6mm 加厚设计，有效缓冲保护关节。双面防滑纹理，即使出汗也能稳稳抓地。TPE 环保材质无毒无味，开箱即用无需晾晒。自带体位引导线，辅助正确练习。"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "新品上市 85 折"
+          },
+          {
+            "label": "",
+            "content": "两件 8 折"
+          }
+        ]
+      }
+    }
+  ],
+  "basket": [],
+  "buttonLibrary": [
+    {
+      "id": "btn_mu9qt8un5wq3hz",
+      "scene": "限时折扣",
+      "content": "Shop Now — Save 20% Today"
+    },
+    {
+      "id": "btn_mu9qt8unwarhf6",
+      "scene": "限时折扣",
+      "content": "限时 8 折，立即抢购"
+    },
+    {
+      "id": "btn_mu9qt8ungakl9n",
+      "scene": "限时折扣",
+      "content": "Limited Time Only — Grab Yours"
+    },
+    {
+      "id": "btn_mu9qt8unp43me8",
+      "scene": "新品上市",
+      "content": "Be the First to Try"
+    },
+    {
+      "id": "btn_mu9qt8unuv63p3",
+      "scene": "新品上市",
+      "content": "新品首发，抢先体验"
+    },
+    {
+      "id": "btn_mu9qt8undx8cce",
+      "scene": "新品上市",
+      "content": "New Arrival — Get Yours Now"
+    },
+    {
+      "id": "btn_mu9qt8unxn57r9",
+      "scene": "会员专享",
+      "content": "Members Only — Unlock Your Deal"
+    },
+    {
+      "id": "btn_mu9qt8un0xatm4",
+      "scene": "会员专享",
+      "content": "会员专属价，立即查看"
+    },
+    {
+      "id": "btn_mu9qt8un1xm0tl",
+      "scene": "免费试用",
+      "content": "Start Your Free Trial"
+    },
+    {
+      "id": "btn_mu9qt8unq4pzf3",
+      "scene": "免费试用",
+      "content": "免费试用 30 天"
+    },
+    {
+      "id": "btn_mu9qt8unw3nidp",
+      "scene": "通用",
+      "content": "Add to Cart"
+    },
+    {
+      "id": "btn_mu9qt8unos22jl",
+      "scene": "通用",
+      "content": "Learn More"
+    },
+    {
+      "id": "btn_mu9qt8unncgqn9",
+      "scene": "通用",
+      "content": "加入购物车"
+    },
+    {
+      "id": "btn_mu9qt8uny93gws",
+      "scene": "通用",
+      "content": "了解更多"
+    }
+  ],
+  "copyLibrary": []
+}
