@@ -1,7 +1,7 @@
 {
   "app": "EDM产品助手",
   "schema": 3,
-  "exportDate": "2026-09-21T02:08:34.459Z",
+  "exportDate": "2026-09-21T07:36:53.021Z",
   "fields": [
     {
       "id": "f_mu9vi4nybbv4es",
@@ -41,6 +41,11 @@
     {
       "id": "mualshhq81y397",
       "name": "Windhorse",
+      "note": ""
+    },
+    {
+      "id": "muautgf7enatq8",
+      "name": "OutfitR",
       "note": ""
     }
   ],
@@ -1035,6 +1040,1284 @@
           {
             "label": "",
             "content": "Bring home C3 Pro and make longer rides feel effortless."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muant5ijpqsnx0",
+      "brandId": "mualshhq81y397",
+      "name": "Windhorse D1",
+      "createdAt": "2026-09-21T03:02:13.291Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "Windhorse D1"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://windhorse.com/products/windhorse-d1?_pos=1&_sid=202f6bea9&_ss=r"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "750W motor, 1500W peak"
+          },
+          {
+            "label": "",
+            "content": "62 Nm torque"
+          },
+          {
+            "label": "",
+            "content": "Top speed 20 MPH"
+          },
+          {
+            "label": "",
+            "content": "48V/15Ah battery with smart BMS"
+          },
+          {
+            "label": "",
+            "content": "Up to 31 miles per charge"
+          },
+          {
+            "label": "",
+            "content": "16x3 puncture-resistant fat tires"
+          },
+          {
+            "label": "",
+            "content": "Front and rear coil-over suspension"
+          },
+          {
+            "label": "",
+            "content": "Carbon alloy frame"
+          },
+          {
+            "label": "",
+            "content": "95.9 lb weight, 330 lb max payload"
+          },
+          {
+            "label": "",
+            "content": "Fits riders 5.2ft to 6.2ft"
+          },
+          {
+            "label": "",
+            "content": "Built-in Bluetooth speaker"
+          },
+          {
+            "label": "",
+            "content": "Turn signals, side mirrors, high-output headlight"
+          },
+          {
+            "label": "",
+            "content": "Anti-theft alarm with remote find"
+          },
+          {
+            "label": "",
+            "content": "LCD display with speed, battery and trip data"
+          },
+          {
+            "label": "",
+            "content": "10 kg center cargo basket"
+          },
+          {
+            "label": "",
+            "content": "UL-certified battery, 1-year warranty, 30-day returns"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "动力性能",
+            "content": "750W Motor, 1500W Peak. Punchy acceleration climbs steep hills fully loaded."
+          },
+          {
+            "label": "续航里程",
+            "content": "31 Miles Per Charge. A 48V/15Ah battery covers daily commutes easily."
+          },
+          {
+            "label": "全地形胎",
+            "content": "All-Terrain Fat Tires. 16x3 tires grip street, gravel, sand and snow."
+          },
+          {
+            "label": "双减震",
+            "content": "Dual Front and Rear Suspension. Coil-over suspension absorbs curbs, potholes and rough trails."
+          },
+          {
+            "label": "安全配置",
+            "content": "Signals, Mirrors and Bright Lights. See traffic clearly and stay visible day or night."
+          },
+          {
+            "label": "安心防盗",
+            "content": "Ride Away Without Worry. Anti-theft alarm and remote find protect it."
+          },
+          {
+            "label": "骑行氛围",
+            "content": "Your Soundtrack On Every Ride. Built-in Bluetooth speaker turns commutes into rolling playlists."
+          },
+          {
+            "label": "轻松上手",
+            "content": "Twist and Go, No Learning. No pedals, no gears, anyone can ride instantly."
+          },
+          {
+            "label": "日常载物",
+            "content": "Hauls Your Everyday Essentials. A 10 kg cargo basket handles groceries, bags and gear."
+          },
+          {
+            "label": "从容自信",
+            "content": "Confident From The First Ride. Low seat and wide bars make heavy feel effortless."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "划线价",
+            "content": "$799.00"
+          },
+          {
+            "label": "现在价格",
+            "content": "$699.00"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "750W motor and 31-mile range, get your D1 today."
+          },
+          {
+            "label": "",
+            "content": "Dual suspension and fat tires, order your D1 now."
+          },
+          {
+            "label": "",
+            "content": "Save $100 today, ride the flagship D1 home."
+          },
+          {
+            "label": "",
+            "content": "Twist and go, no gears, start riding in minutes."
+          },
+          {
+            "label": "",
+            "content": "Anti-theft alarm and remote find, secure your D1 now."
+          },
+          {
+            "label": "",
+            "content": "Bluetooth speaker and turn signals, upgrade your commute today."
+          },
+          {
+            "label": "短描述",
+            "content": "Moto-style all-terrain scooter with fat tires, dual suspension, mirrors and turn signals."
+          },
+          {
+            "label": "长描述",
+            "content": "The D1 pairs a 750W motor with a 48V/15Ah battery for up to 31 miles, adding a Bluetooth speaker, anti-theft alarm and a 10 kg cargo basket."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf7nlyatv",
+      "brandId": "muautgf7enatq8",
+      "name": "4155",
+      "createdAt": "2026-09-21T06:18:24.739Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "Foldable 2-Bike Platform Hitch Rack"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/collections/savings/products/2-bike-hitch-electric-bike-rack-with-ramp-folding-fat-tire-e-bike-carrier-200-lbs-capacity-fits-2-receiver"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "200 LB capacity; 2-bike; up to 5-inch tires; 2-inch hitch receiver; folding design; loading ramp"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "200-LB Two-Bike Capacity\nCarries up to 100 lbs per bike."
+          },
+          {
+            "label": "胖胎",
+            "content": "Fits Up To 5-Inch Tires\nWorks with e-bikes, mountain bikes, and fat tires."
+          },
+          {
+            "label": "装卸",
+            "content": "Built-In Loading Ramp\nRoll heavy e-bikes on without heavy lifting."
+          },
+          {
+            "label": "折叠",
+            "content": "One-Hand Folding Design\nFold it up easily for storage or parking."
+          },
+          {
+            "label": "稳固",
+            "content": "Anti-Wobble Security\nKeeps bikes stable and helps prevent vehicle contact."
+          },
+          {
+            "label": "省力装车",
+            "content": "Load Without The Heavy Lifting\nRoll your e-bike up the ramp and go."
+          },
+          {
+            "label": "轻松收纳",
+            "content": "Fold It Away In Seconds\nClear garage or parking space when you're done."
+          },
+          {
+            "label": "安心出行",
+            "content": "Keep Your Bikes Secure\nAnti-wobble features help keep bikes steady on the road."
+          },
+          {
+            "label": "双车出行",
+            "content": "Bring Two Bikes Along\nTake two e-bikes on weekend rides without leaving one behind."
+          },
+          {
+            "label": "随时出发",
+            "content": "Make Bike Trips Easier\nLoad up quickly and spend more time riding."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$269.99 / $459.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Carry two heavy e-bikes with less lifting and more confidence."
+          },
+          {
+            "label": "",
+            "content": "Load, secure, fold, and hit the road with ease."
+          },
+          {
+            "label": "",
+            "content": "Take both bikes along for your next weekend adventure."
+          },
+          {
+            "label": "",
+            "content": "Enjoy easier bike transport with a built-in loading ramp."
+          },
+          {
+            "label": "",
+            "content": "Keep your e-bikes secure from driveway to destination."
+          },
+          {
+            "label": "",
+            "content": "Make every cycling trip simpler with one foldable rack."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf80ogkti",
+      "brandId": "muautgf7enatq8",
+      "name": "4118",
+      "createdAt": "2026-09-21T06:18:24.740Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "Folding Fat Tire E-Bike Rack"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/hitch-e-bike-rack-fits-2-receiver-200-lbs-capacity-for-cars-trucks-suvs-minivans-rv"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "200 LB capacity; 2-bike; 2-inch hitch receiver; heavy-duty design; fold and tilt"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "200-LB Two-Bike Capacity\nCarries up to 100 lbs per bike."
+          },
+          {
+            "label": "兼容",
+            "content": "Fits 2-Inch Hitch Receivers\nWorks with cars, trucks, SUVs, minivans, and RVs."
+          },
+          {
+            "label": "折叠",
+            "content": "Easy Fold Design\nFold the rack up when it is not in use."
+          },
+          {
+            "label": "倾斜",
+            "content": "Tilt For Trunk Access\nTilt the rack down for easier vehicle access."
+          },
+          {
+            "label": "稳固",
+            "content": "Anti-Wobble Protection\nHelps keep bikes secure and reduce movement during travel."
+          },
+          {
+            "label": "轻松收纳",
+            "content": "Fold It When You're Done\nKeep your garage or parking space clear."
+          },
+          {
+            "label": "方便取物",
+            "content": "Reach Your Trunk Easily\nTilt the rack down without removing it."
+          },
+          {
+            "label": "安心出行",
+            "content": "Keep Your Bikes Steady\nSecure your bikes for smoother road trips."
+          },
+          {
+            "label": "双车同行",
+            "content": "Bring Both Bikes\nTake two rides wherever the weekend leads."
+          },
+          {
+            "label": "少些麻烦",
+            "content": "Skip The Rack Hassle\nSimple folding and tilting make every trip easier."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$289.99 / $469.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Carry two e-bikes securely while keeping everyday loading simple."
+          },
+          {
+            "label": "",
+            "content": "Fold, tilt, and travel without removing the rack."
+          },
+          {
+            "label": "",
+            "content": "Take both bikes along and make weekend rides easier."
+          },
+          {
+            "label": "",
+            "content": "Enjoy secure transport with less setup and storage hassle."
+          },
+          {
+            "label": "",
+            "content": "Keep your bikes steady from city streets to weekend trails."
+          },
+          {
+            "label": "",
+            "content": "Make every bike trip easier with smart fold-and-tilt convenience."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf86je3ln",
+      "brandId": "muautgf7enatq8",
+      "name": "4197",
+      "createdAt": "2026-09-21T06:18:24.740Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "2-BIKE HITCH E-BIKE RACK WITH RAMP"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/2-bike-hitch-e-bike-rack-easy-fold-and-tilt-heavy-duty-with-ramp"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "200 LB capacity; 2-bike; loading ramp; up to 5-inch tires; fold and tilt; 2-inch hitch"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "200-LB Heavy-Duty Capacity\nCarries up to 100 lbs per bike."
+          },
+          {
+            "label": "装卸",
+            "content": "Foldable Loading Ramp\nRoll heavy bikes onto the rack with less effort."
+          },
+          {
+            "label": "胖胎",
+            "content": "Fits Up To 5-Inch Tires\nHandles e-bikes, mountain bikes, and fat tires."
+          },
+          {
+            "label": "折叠",
+            "content": "Easy Fold And Tilt\nFold compactly and tilt for easier access."
+          },
+          {
+            "label": "稳固",
+            "content": "Secure Anti-Wobble System\nHelps prevent swaying and contact with your vehicle."
+          },
+          {
+            "label": "省力装车",
+            "content": "Roll It Up, Not Lift It\nUse the ramp when your e-bike feels too heavy."
+          },
+          {
+            "label": "轻松收纳",
+            "content": "Fold It Out Of The Way\nKeep the rack compact when you're not riding."
+          },
+          {
+            "label": "安心出行",
+            "content": "Drive With More Confidence\nSecure your bikes against swaying on the road."
+          },
+          {
+            "label": "双车出游",
+            "content": "Bring The Whole Ride\nTake two heavy e-bikes on your next adventure."
+          },
+          {
+            "label": "少费力气",
+            "content": "Let The Ramp Do The Work\nMake loading and unloading easier every time."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "现价",
+            "content": "$319.99"
+          },
+          {
+            "label": "划线价",
+            "content": "$559.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Carry two heavy e-bikes with easier loading and secure transport."
+          },
+          {
+            "label": "",
+            "content": "Let the ramp handle the heavy lifting before every ride."
+          },
+          {
+            "label": "",
+            "content": "Fold it away easily when your bikes are off the road."
+          },
+          {
+            "label": "",
+            "content": "Take two e-bikes farther without the loading struggle."
+          },
+          {
+            "label": "",
+            "content": "Enjoy stable transport from everyday trips to weekend adventures."
+          },
+          {
+            "label": "",
+            "content": "Make heavy e-bike hauling simpler from start to finish."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf8gr1rwf",
+      "brandId": "muautgf7enatq8",
+      "name": "4156",
+      "createdAt": "2026-09-21T06:18:24.740Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "3-Bike Hitch E-Bike Rack with Ramp"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/3-bike-hitch-e-bike-rack-with-ramp-fat-tire-electric-bike-carrier-250-lbs-capacity-fits-2-receiver"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "250 LB capacity; 3-bike; loading ramp; up to 5-inch tires; foldable; 2-inch hitch"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "250-LB Three-Bike Capacity\nCarries up to three bikes with heavy-duty support."
+          },
+          {
+            "label": "装卸",
+            "content": "Convenient Loading Ramp\nRoll heavier e-bikes onto the rack with less effort."
+          },
+          {
+            "label": "胖胎",
+            "content": "Fits Up To 5-Inch Tires\nSupports e-bikes and fat-tire bikes."
+          },
+          {
+            "label": "稳固",
+            "content": "Three-Arm Secure Design\nHelps keep three bikes separated and firmly secured."
+          },
+          {
+            "label": "折叠",
+            "content": "Foldable Space-Saving Design\nFolds toward the trunk when not in use."
+          },
+          {
+            "label": "多人出行",
+            "content": "Bring Everyone Along\nTake three bikes so nobody has to stay home."
+          },
+          {
+            "label": "省力装车",
+            "content": "Load Heavy Bikes Easier\nUse the ramp instead of lifting heavy e-bikes."
+          },
+          {
+            "label": "安心同行",
+            "content": "Keep Every Bike Secure\nDedicated arms help prevent bikes from colliding."
+          },
+          {
+            "label": "周末出游",
+            "content": "Make Group Rides Simple\nPack the whole crew and head for the trail."
+          },
+          {
+            "label": "轻松收纳",
+            "content": "Clear Space After The Ride\nFold the rack away when the adventure is over."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$379.99 / $579.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Take three e-bikes along and make group rides easier."
+          },
+          {
+            "label": "",
+            "content": "Load heavier bikes with less effort using the built-in ramp."
+          },
+          {
+            "label": "",
+            "content": "Keep three bikes secure for weekend adventures and road trips."
+          },
+          {
+            "label": "",
+            "content": "Bring the whole crew without leaving a bike behind."
+          },
+          {
+            "label": "",
+            "content": "Fold the rack away when your ride is done."
+          },
+          {
+            "label": "",
+            "content": "Make family and group cycling trips easier from start to finish."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf8naiy90",
+      "brandId": "muautgf7enatq8",
+      "name": "4148",
+      "createdAt": "2026-09-21T06:18:24.740Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "200 lb Fat Tire E-Bike Rack"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/2-bike-2-bike-hitch-bike-rack-fat-tire-e-bike-carrier-200-lbs-capacity-fits-2-receiver"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "200 LB capacity; 2-bike; up to 5-inch tires; loading ramp; foldable; 2-inch hitch"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "200-LB Two-Bike Capacity\nCarries up to 100 lbs per bike."
+          },
+          {
+            "label": "胖胎",
+            "content": "Fits Up To 5-Inch Tires\nSupports fat-tire and standard e-bikes."
+          },
+          {
+            "label": "装卸",
+            "content": "Built-In Loading Ramp\nMakes loading heavy bikes easier and safer."
+          },
+          {
+            "label": "折叠",
+            "content": "Foldable Design\nSave space when the rack is not in use."
+          },
+          {
+            "label": "稳固",
+            "content": "Adjustable Bike Supports\nHelps keep bikes separated and secure during travel."
+          },
+          {
+            "label": "省力装车",
+            "content": "Skip The Heavy Lifting\nRoll your e-bike up instead of lifting it."
+          },
+          {
+            "label": "双车出行",
+            "content": "Take Both Bikes\nBring your favorite riding partner along."
+          },
+          {
+            "label": "轻松收纳",
+            "content": "Fold It When Finished\nKeep your vehicle and garage space uncluttered."
+          },
+          {
+            "label": "安心运输",
+            "content": "Ride With Peace Of Mind\nKeep both bikes secure from road to trail."
+          },
+          {
+            "label": "周末自由",
+            "content": "Make Weekend Rides Easier\nSpend less time loading and more time riding."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$304.99 / $489.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Carry two e-bikes with less lifting and easier storage."
+          },
+          {
+            "label": "",
+            "content": "Roll heavy bikes aboard and get ready to ride faster."
+          },
+          {
+            "label": "",
+            "content": "Keep both bikes secure on road trips and trail days."
+          },
+          {
+            "label": "",
+            "content": "Bring your riding partner without the loading hassle."
+          },
+          {
+            "label": "",
+            "content": "Fold it away easily after every adventure."
+          },
+          {
+            "label": "",
+            "content": "Make every bike outing simpler with ramp-assisted loading."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf8p0bdxw",
+      "brandId": "muautgf7enatq8",
+      "name": "4149",
+      "createdAt": "2026-09-21T06:18:24.740Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/1-bike-hitch-rack-with-ramp-lightweight-bike-carrier-100-lbs-capacity-fits-2-receiver"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "100 LB capacity; 1-bike; lightweight frame; loading ramp; up to 5-inch tires; 2-inch hitch"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "100-LB Single-Bike Capacity\nCarries one heavy e-bike securely."
+          },
+          {
+            "label": "轻量",
+            "content": "Lightweight Aluminum Frame\nEasier to handle and install than heavier racks."
+          },
+          {
+            "label": "装卸",
+            "content": "Built-In Loading Ramp\nRoll your e-bike up without heavy lifting."
+          },
+          {
+            "label": "胖胎",
+            "content": "Fits Up To 5-Inch Tires\nWorks with many e-bikes and fat-tire models."
+          },
+          {
+            "label": "稳固",
+            "content": "Adjustable Wheel Support\nHelps fit different bike lengths and reduce movement."
+          },
+          {
+            "label": "轻松装车",
+            "content": "Load It Without Lifting\nRoll your bike onto the rack and go."
+          },
+          {
+            "label": "一人出发",
+            "content": "Ride Solo, Pack Easy\nTake your own e-bike without carrying a bulky rack."
+          },
+          {
+            "label": "省空间",
+            "content": "Keep It Simple\nA single-bike setup avoids unnecessary bulk."
+          },
+          {
+            "label": "安心运输",
+            "content": "Protect Your Ride\nAdjustable supports help keep your bike steady."
+          },
+          {
+            "label": "随时出发",
+            "content": "Be Ready For The Weekend\nLoad one bike and head wherever you want."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$189.99 / $339.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Take one e-bike anywhere with easier loading and transport."
+          },
+          {
+            "label": "",
+            "content": "Roll your bike aboard and skip the heavy lifting."
+          },
+          {
+            "label": "",
+            "content": "Enjoy a lightweight rack built around solo adventures."
+          },
+          {
+            "label": "",
+            "content": "Keep your e-bike secure from driveway to destination."
+          },
+          {
+            "label": "",
+            "content": "Make weekend rides simpler with one-bike convenience."
+          },
+          {
+            "label": "",
+            "content": "Pack your ride and get moving with less hassle."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf8tbxj0v",
+      "brandId": "muautgf7enatq8",
+      "name": "4186",
+      "createdAt": "2026-09-21T06:18:24.740Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "Tire-Clamp Heavy-Duty E-Bike Rack"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/200lbs-capacity-tire-clamp-e-bike-rack-with-ramp"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "200 LB capacity; tire-clamp design; 2-bike; loading ramp; heavy-duty construction"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "200-LB Heavy-Duty Capacity\nCarries two heavy e-bikes with up to 100 lbs each."
+          },
+          {
+            "label": "胎夹",
+            "content": "Frame-Free Tire Clamps\nSecure bikes by the tires without frame contact."
+          },
+          {
+            "label": "装卸",
+            "content": "Integrated Loading Ramp\nRoll heavy e-bikes onto the rack with ease."
+          },
+          {
+            "label": "稳定",
+            "content": "Three-Point Locking System\nAdds reinforced stability for demanding road conditions."
+          },
+          {
+            "label": "折叠",
+            "content": "90° Foldable Design\nFold the rack up to clear space behind your vehicle."
+          },
+          {
+            "label": "重车无忧",
+            "content": "Built For Heavy E-Bikes\nHandle premium, heavy e-bikes without the lifting stress."
+          },
+          {
+            "label": "保护车架",
+            "content": "Protect Your Bike Frame\nSecure the tires without pressing against the frame."
+          },
+          {
+            "label": "轻松装车",
+            "content": "Roll It Up Easily\nLet the ramp do the work when your bike is heavy."
+          },
+          {
+            "label": "安心远行",
+            "content": "Travel With Confidence\nExtra stability helps keep your bikes secure on rough roads."
+          },
+          {
+            "label": "省心收纳",
+            "content": "Fold It Away\nClear space behind your vehicle when the rack is empty."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$579.99 / $879.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Haul two heavy e-bikes with tire-first security and stability."
+          },
+          {
+            "label": "",
+            "content": "Load premium e-bikes without lifting them onto the rack."
+          },
+          {
+            "label": "",
+            "content": "Protect your frames while keeping both bikes firmly secured."
+          },
+          {
+            "label": "",
+            "content": "Take on rough roads with heavy-duty transport confidence."
+          },
+          {
+            "label": "",
+            "content": "Use the ramp to make every loading job easier."
+          },
+          {
+            "label": "",
+            "content": "Fold it up and keep your vehicle ready for the next ride."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf8mfjlqq",
+      "brandId": "muautgf7enatq8",
+      "name": "4095",
+      "createdAt": "2026-09-21T06:18:24.740Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "Foldable and Tiltable 2-Bike Rack"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/foldable-2-bike-hitch-rack-platform-style-2-receiver-200-lbs-capacity"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "200 LB capacity; 2-bike; foldable; tiltable; up to 5-inch tires; 2-inch hitch"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "200-LB Two-Bike Capacity\nCarries up to 100 lbs per bike."
+          },
+          {
+            "label": "胖胎",
+            "content": "Fits Up To 5-Inch Tires\nWorks with road, mountain, and fat-tire bikes."
+          },
+          {
+            "label": "折叠",
+            "content": "Foldable Space-Saving Design\nFold the rack up for easier garage parking."
+          },
+          {
+            "label": "倾斜",
+            "content": "Quick Tilt-Back Access\nTilt the rack down to access your trunk."
+          },
+          {
+            "label": "稳固",
+            "content": "Padded Adjustable Hooks\nSecure bikes while helping protect the frame finish."
+          },
+          {
+            "label": "轻松收纳",
+            "content": "Fold It Up After Riding\nSave space without removing the entire rack."
+          },
+          {
+            "label": "方便取物",
+            "content": "Reach Your Trunk Easily\nTilt the rack down when you need your gear."
+          },
+          {
+            "label": "安心固定",
+            "content": "Keep Your Bikes Secure\nPadded hooks hold bikes firmly without scratching them."
+          },
+          {
+            "label": "双车同行",
+            "content": "Bring Two Bikes Along\nPack both bikes for the next weekend escape."
+          },
+          {
+            "label": "少些麻烦",
+            "content": "Keep Bike Days Simple\nEasy folding and tilting make transport less complicated."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$159.99 / $299.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Carry two bikes while keeping loading and storage simple."
+          },
+          {
+            "label": "",
+            "content": "Fold it up, tilt it down, and keep moving easily."
+          },
+          {
+            "label": "",
+            "content": "Protect your bikes while securing them for the road."
+          },
+          {
+            "label": "",
+            "content": "Bring two rides along without sacrificing garage space."
+          },
+          {
+            "label": "",
+            "content": "Enjoy practical bike transport at home and on the road."
+          },
+          {
+            "label": "",
+            "content": "Make every cycling trip easier with fold-and-tilt convenience."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf8d3g4hv",
+      "brandId": "muautgf7enatq8",
+      "name": "4209",
+      "createdAt": "2026-09-21T06:18:24.740Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "Adjustable Etrike Hitch Rack"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/etrike-hitch-rack-200lbs-capacity-2-receiver-adjustable-carrier-for-adult-electric-fat-tire-folding-tricycles-fits-cars-suvs-trucks-rvs"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "200 LB capacity; adult e-trike carrier; adjustable; 3 loading ramps; 2-inch hitch"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "200-LB Heavy-Duty Capacity\nBuilt to transport adult electric tricycles securely."
+          },
+          {
+            "label": "装卸",
+            "content": "Three Integrated Loading Ramps\nRoll your trike onto the rack without heavy lifting."
+          },
+          {
+            "label": "兼容",
+            "content": "Fits Different Trikes\nAdjusts for wheelbases up to 58 inches and tracks up to 36 inches."
+          },
+          {
+            "label": "固定",
+            "content": "Three-Point Tire Straps\nSecure the wheels to reduce sway and shifting."
+          },
+          {
+            "label": "折叠",
+            "content": "Foldable Storage Design\nFold the carrier up when your trike is off the road."
+          },
+          {
+            "label": "省力装车",
+            "content": "Roll Your Trike On\nUse the integrated ramps instead of lifting a heavy trike."
+          },
+          {
+            "label": "适配无忧",
+            "content": "Fit Your Trike Better\nAdjust the carrier around different trike sizes and shapes."
+          },
+          {
+            "label": "安心运输",
+            "content": "Keep Your Trike Stable\nThree-point straps help keep the trike secure on the road."
+          },
+          {
+            "label": "轻松出行",
+            "content": "Take Your Trike Further\nBring your favorite ride to parks, trails, or new neighborhoods."
+          },
+          {
+            "label": "收纳方便",
+            "content": "Fold It Away\nSave space when your trike is back home."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$649.00 / $899.00"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Transport your electric trike with less lifting and more confidence."
+          },
+          {
+            "label": "",
+            "content": "Roll your trike aboard and let the adjustable ramps help."
+          },
+          {
+            "label": "",
+            "content": "Fit different trike sizes without giving up secure transport."
+          },
+          {
+            "label": "",
+            "content": "Take your trike farther and explore beyond your neighborhood."
+          },
+          {
+            "label": "",
+            "content": "Fold the carrier away when your ride is back home."
+          },
+          {
+            "label": "",
+            "content": "Make electric trike adventures easier from loading to arrival."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf9ua28wm",
+      "brandId": "muautgf7enatq8",
+      "name": "1194",
+      "createdAt": "2026-09-21T06:18:24.741Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/electric-wheelchair-scooter-carrier-with-automatic-lift-350-lbs-capacity-foldable-design-manual-crank-for-2-hitch-receiver-heavy-duty-mobility-lift-for-easy-transport"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "350 LB capacity; electric lift; automatic retractors; foldable; manual backup crank; 2-inch hitch"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "承重",
+            "content": "350-LB Heavy-Duty Capacity\nSupports mobility scooters and power chairs up to 350 lbs."
+          },
+          {
+            "label": "电动升降",
+            "content": "One-Button Electric Lift\nRaises your mobility device in about 20 seconds."
+          },
+          {
+            "label": "自动固定",
+            "content": "Self-Tensioning Retractors\nAutomatically secure the mobility device without extra tie-down straps."
+          },
+          {
+            "label": "折叠",
+            "content": "Fast Fold-Up Design\nFolds in about 6 seconds when not in use."
+          },
+          {
+            "label": "备用",
+            "content": "Manual Backup Crank\nLets you raise or lower the lift if power is unavailable."
+          },
+          {
+            "label": "省力搬运",
+            "content": "Skip The Heavy Lifting\nLet the electric lift handle your mobility device."
+          },
+          {
+            "label": "轻松出行",
+            "content": "Travel With More Freedom\nBring your mobility scooter or power chair wherever you go."
+          },
+          {
+            "label": "一键操作",
+            "content": "Press. Lift. Go.\nSimple controls make loading feel less complicated."
+          },
+          {
+            "label": "安心固定",
+            "content": "Secure It Without The Struggle\nAutomatic retractors help hold your device in place."
+          },
+          {
+            "label": "放心备用",
+            "content": "Peace Of Mind On The Road\nA manual crank gives you a backup when power fails."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$1,199.99 / $1,999.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Transport mobility devices with less lifting and easier operation."
+          },
+          {
+            "label": "",
+            "content": "Let the electric lift handle the heavy work for you."
+          },
+          {
+            "label": "",
+            "content": "Bring your scooter or power chair wherever the road leads."
+          },
+          {
+            "label": "",
+            "content": "Secure your mobility device quickly with automatic retractors."
+          },
+          {
+            "label": "",
+            "content": "Fold the carrier away when you need more vehicle space."
+          },
+          {
+            "label": "",
+            "content": "Travel with more independence and less loading stress."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "muautgf9rlanog",
+      "brandId": "muautgf7enatq8",
+      "name": "4147",
+      "createdAt": "2026-09-21T06:18:24.741Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "Silver Color 2-Bike Hitch E-Bike Rack"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://outfitrer.com/products/2-bike-rack-without-ramp-ez-fold-bike-carrier-200-lbs-capacity-fits-2-receiver"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "200 LB capacity; 2-bike; lightweight aluminum frame; fold and tilt; up to 5-inch tires; 2-inch hitch"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "容量",
+            "content": "200-LB Two-Bike Capacity\nCarries up to 100 lbs per bike."
+          },
+          {
+            "label": "轻量",
+            "content": "Lightweight Aluminum Frame\nMakes installation and handling easier."
+          },
+          {
+            "label": "折叠",
+            "content": "EZ-Fold And Tilt\nFold the rack up and tilt it down when needed."
+          },
+          {
+            "label": "胖胎",
+            "content": "Fits Up To 5-Inch Tires\nSupports e-bikes and fat-tire bikes."
+          },
+          {
+            "label": "稳固",
+            "content": "Anti-Wobble Design\nHelps keep bikes stable during travel."
+          },
+          {
+            "label": "轻松安装",
+            "content": "Handle It With Less Effort\nA lightweight frame makes setup easier."
+          },
+          {
+            "label": "方便取物",
+            "content": "Reach Your Trunk Easily\nTilt the rack down instead of removing it."
+          },
+          {
+            "label": "安心出行",
+            "content": "Keep Both Bikes Steady\nAnti-wobble construction helps reduce movement on the road."
+          },
+          {
+            "label": "双车同行",
+            "content": "Bring Two Bikes Along\nTake both rides wherever your weekend plans lead."
+          },
+          {
+            "label": "省心收纳",
+            "content": "Fold It When Finished\nKeep your vehicle and garage space more organized."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$249.99 / $479.99"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Carry two e-bikes with a lighter, easier-to-handle design."
+          },
+          {
+            "label": "",
+            "content": "Fold and tilt the rack without removing it from your vehicle."
+          },
+          {
+            "label": "",
+            "content": "Keep both bikes secure while making storage easier."
+          },
+          {
+            "label": "",
+            "content": "Bring two rides along without adding unnecessary setup hassle."
+          },
+          {
+            "label": "",
+            "content": "Enjoy practical e-bike transport for road trips and weekends."
+          },
+          {
+            "label": "",
+            "content": "Make loading, traveling, and storing your bikes simpler."
           }
         ],
         "f_mu9viq8fsf379i": []
