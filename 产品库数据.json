@@ -1,7 +1,7 @@
 {
   "app": "EDM产品助手",
   "schema": 3,
-  "exportDate": "2026-09-21T07:36:53.021Z",
+  "exportDate": "2026-10-09T04:24:58.923Z",
   "fields": [
     {
       "id": "f_mu9vi4nybbv4es",
@@ -2322,9 +2322,250 @@
         ],
         "f_mu9viq8fsf379i": []
       }
+    },
+    {
+      "id": "mv0g5tb5tl8u20",
+      "brandId": "mu9vgz1tgmwnwm",
+      "name": "X7",
+      "createdAt": "2026-10-09T04:10:07.649Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "Sunseeker X7 Gen 2 AWD Robot Lawn Mower"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://shopsunseekertech.com/products/sunseeker-x7-gen-2-robot-lawn-mower-0-75-acre"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "Up to 0.75 Acres\nAWD · Up to 70% Slopes\nRTK + VSLAM 2.0\nWi-Fi / Bluetooth"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "坡地性能",
+            "content": "Handles 70% Slopes. AWD traction climbs steep inclines up to 35 degrees with ease."
+          },
+          {
+            "label": "导航能力",
+            "content": "RTK + VSLAM 2.0 Navigation. Satellite and visual mapping keep it on track under tree cover."
+          },
+          {
+            "label": "切割效果",
+            "content": "14-Inch Dual Discs. Floating blades follow uneven ground for a consistent, even cut."
+          },
+          {
+            "label": "智能感知",
+            "content": "Vision AI 2.0 Sensing. Binocular cameras and iToF detect obstacles clearly, day or night."
+          },
+          {
+            "label": "续航覆盖",
+            "content": "0.75 Acre Coverage. One mower covers your entire lawn in a single scheduled session."
+          },
+          {
+            "label": "省时省力",
+            "content": "Reclaim Your Weekends. Stop pushing a mower; enjoy your lawn from a chair instead."
+          },
+          {
+            "label": "省心省事",
+            "content": "Set It and Forget It. Schedule once and let it quietly work while you relax."
+          },
+          {
+            "label": "美观体验",
+            "content": "A Lawn You're Proud Of. Even, tidy stripes make neighbors stop and ask questions."
+          },
+          {
+            "label": "静音低噪",
+            "content": "Whisper-Quiet Mowing. At just 60 dB, it works without disturbing your peace."
+          },
+          {
+            "label": "适应地形",
+            "content": "No More Slope Worries. Steep hills your old mower feared become effortless ground."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$2,599.00"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Take back your weekends with the Sunseeker X7 Gen 2. Order yours today."
+          },
+          {
+            "label": "",
+            "content": "Ready for a lawn that mows itself? Get the X7 Gen 2 now."
+          },
+          {
+            "label": "",
+            "content": "Conquer steep slopes and tree cover effortlessly. Buy the X7 Gen 2 today."
+          },
+          {
+            "label": "",
+            "content": "Upgrade your lawn routine with AWD and Vision AI. Shop the X7 Gen 2 now."
+          },
+          {
+            "label": "",
+            "content": "Your perfect lawn is one click away. Add the X7 Gen 2 to your cart."
+          },
+          {
+            "label": "",
+            "content": "Mow up to 0.75 acres hands-free. Order your X7 Gen 2 today."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
+    },
+    {
+      "id": "mv0g5tb842lymh",
+      "brandId": "mu9vgz1tgmwnwm",
+      "name": "X7 Plus",
+      "createdAt": "2026-10-09T04:10:07.652Z",
+      "values": {
+        "f_mu9vi4nybbv4es": [
+          {
+            "label": "",
+            "content": "Sunseeker X7 Plus Gen 2 AWD Robot Lawn Mower"
+          }
+        ],
+        "f_mu9vi6lbqjzse5": [
+          {
+            "label": "",
+            "content": "https://shopsunseekertech.com/products/sunseeker-x7-plus-gen-2-robot-lawn-mower-1-5-acre"
+          }
+        ],
+        "f_features": [
+          {
+            "label": "",
+            "content": "Up to 1.5 Acres\nAWD & Up to 70% Slopes\nRTK & VSLAM 2.0\n14 in Floating dual discs\nWi-Fi / Bluetooth /4G"
+          }
+        ],
+        "f_sp": [
+          {
+            "label": "续航覆盖",
+            "content": "1.5 Acre Coverage. One mower handles your entire large lawn with ease."
+          },
+          {
+            "label": "坡地性能",
+            "content": "Handles 70% Slopes. AWD traction climbs steep 35-degree inclines without slipping."
+          },
+          {
+            "label": "导航能力",
+            "content": "RTK + VSLAM 2.0 Navigation. Satellite and visual mapping stay accurate under tree cover."
+          },
+          {
+            "label": "防盗追踪",
+            "content": "4G-GPS Tracking Included. Track your mower's location and set geofence alerts anytime."
+          },
+          {
+            "label": "切割效果",
+            "content": "14-Inch Dual Discs. Floating blades follow uneven ground for a consistent, even cut."
+          },
+          {
+            "label": "省时省力",
+            "content": "Reclaim Your Weekends. Stop mowing for hours; relax while your lawn cares for itself."
+          },
+          {
+            "label": "大庭院",
+            "content": "Big Lawn, Zero Stress. Even sprawling properties feel effortless with 1.5-acre rated coverage."
+          },
+          {
+            "label": "安心防盗",
+            "content": "Peace of Mind Built In. Built-in 4G-GPS keeps your investment safe and always tracked."
+          },
+          {
+            "label": "美观体验",
+            "content": "A Lawn You're Proud Of. Neat, even results that make your whole property shine."
+          },
+          {
+            "label": "静音低噪",
+            "content": "Whisper-Quiet Mowing. At just 60 dB, it works without disturbing your peace."
+          },
+          {
+            "label": "",
+            "content": "What's New in Gen 2?\nSix changes that shape how the mower perceives, moves and cuts.\nPerformance depends on lawn conditions and installation."
+          },
+          {
+            "label": "",
+            "content": "10 TOPS Processing\nA 10 TOPS processor supports obstacle detection and navigation decisions."
+          },
+          {
+            "label": "",
+            "content": "Binocular + iToF Depth Sensing\nVision AI 2.0 combines binocular cameras and iToF depth sensing to detect objects and estimate distances as lighting changes."
+          },
+          {
+            "label": "",
+            "content": "Night Mode With Night Vision\nSchedule mowing after dark. Detection varies by object, lighting and lawn conditions."
+          },
+          {
+            "label": "",
+            "content": "Rear Active Steering + Front Suspension\nRear-wheel steering helps reduce turf disturbance during turns, while front suspension adapts to uneven ground."
+          },
+          {
+            "label": "",
+            "content": "App-Adjustable Cutting Height\nAdjust cutting height from 0.8 to 4.0 inches in the app. Follow the manual for longer grass."
+          },
+          {
+            "label": "",
+            "content": "Cliff Sensing, LCD and Return Modes\nCliff sensing helps stop the mower at drops, the LCD displays status, and three return modes offer flexible ways home."
+          }
+        ],
+        "f_mu9vit53ztxb38": [
+          {
+            "label": "",
+            "content": "$3,299.00"
+          }
+        ],
+        "f_cta": [
+          {
+            "label": "",
+            "content": "Own the biggest lawn on the block. Get the X7 Plus Gen 2 today."
+          },
+          {
+            "label": "",
+            "content": "1.5 acres of effortless mowing awaits. Order the X7 Plus Gen 2 now."
+          },
+          {
+            "label": "",
+            "content": "Big lawn, zero effort. Add the Sunseeker X7 Plus Gen 2 to your cart."
+          },
+          {
+            "label": "",
+            "content": "Smarter, safer, stronger. Shop the X7 Plus Gen 2 with 4G-GPS tracking."
+          },
+          {
+            "label": "",
+            "content": "Let your lawn mow itself this season. Buy the X7 Plus Gen 2 today."
+          },
+          {
+            "label": "",
+            "content": "Upgrade to hands-free mowing for large yards. Order the X7 Plus Gen 2 now."
+          }
+        ],
+        "f_mu9viq8fsf379i": []
+      }
     }
   ],
-  "basket": [],
+  "basket": [
+    {
+      "fieldId": "f_mu9vi4nybbv4es",
+      "label": "",
+      "content": "Sunseeker X7 Plus Gen 2 AWD Robot Lawn Mower"
+    },
+    {
+      "fieldId": "f_features",
+      "label": "",
+      "content": "Up to 1.5 Acres\nAWD & Up to 70% Slopes\nRTK & VSLAM 2.0\n14 in Floating dual discs\nWi-Fi / Bluetooth /4G"
+    }
+  ],
   "buttonLibrary": [
     {
       "id": "btn_mu9vlxu097pk7i",
